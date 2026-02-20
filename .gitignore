@@ -1,6 +1,6 @@
-# Ignore .py and .ipynb files
-*.py
-*.ipynb
+# Ignore all hidden .py and .ipynb files
+.py
+.ipynb
 
 # Byte-compiled / optimized / DLL files
 __pycache__/

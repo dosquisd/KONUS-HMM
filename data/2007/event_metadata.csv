@@ -1,0 +1,6 @@
+#,trigger date,trigger time (t_0),class,goes t_begin,goes t_max,goes t_end,kw-sun,light curve
+694,2007-06-01,21:49:31.977 (78571.977),M2.1,21:40,21:52,21:59,http://www.ioffe.ru/LEA/kwsun/2007/20070601_78571.html,https://www.ioffe.ru/LEA/Solar/2SOL20070601T78571.pdf
+695,2007-06-03,01:57:15.192 (7035.192),M2.4,01:51,01:59,02:04,http://www.ioffe.ru/LEA/kwsun/2007/20070603_07035.html,https://www.ioffe.ru/LEA/Solar/2SOL20070603T07035.pdf
+696,2007-06-03,06:39:15.063 (23955.063),M4.5,06:36,06:41,06:43,http://www.ioffe.ru/LEA/kwsun/2007/20070603_23955.html,https://www.ioffe.ru/LEA/Solar/2SOL20070603T23955.pdf
+697,2007-06-03,09:26:30.426 (33990.426),C5.3,09:23,09:28,09:31,http://www.ioffe.ru/LEA/kwsun/2007/20070603_33990.html,https://www.ioffe.ru/LEA/Solar/2SOL20070603T33990.pdf
+698,2007-06-04,05:11:11.428 (18671.428),M8.9,05:06,05:13,05:16,http://www.ioffe.ru/LEA/kwsun/2007/20070604_18671.html,https://www.ioffe.ru/LEA/Solar/2SOL20070604T18671.pdf

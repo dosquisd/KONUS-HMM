@@ -1,0 +1,7 @@
+#,trigger date,trigger time (t_0),class,goes t_begin,goes t_max,goes t_end,kw-sun,light curve
+967,2021-05-09,13:54:17.225 (50057.225),C4.0,13:38,13:58,14:09,http://www.ioffe.ru/LEA/kwsun/2021/20210509_50057.html,https://www.ioffe.ru/LEA/Solar/2SOL20210509T50057.pdf
+968,2021-07-03,14:26:40.472 (52000.472),X1.5,14:18,14:29,14:34,http://www.ioffe.ru/LEA/kwsun/2021/20210703_52000.html,https://www.ioffe.ru/LEA/Solar/2SOL20210703T52000.pdf
+969,2021-08-29,10:01:59.971 (36119.971),C8.1,09:54,10:03,10:07,http://www.ioffe.ru/LEA/kwsun/2021/20210829_36119.html,https://www.ioffe.ru/LEA/Solar/2SOL20210829T36119.pdf
+970,2021-09-17,04:14:17.027 (15257.027),C3.5,04:09,04:20,04:48,http://www.ioffe.ru/LEA/kwsun/2021/20210917_15257.html,https://www.ioffe.ru/LEA/Solar/2SOL20210917T15257.pdf
+971,2021-10-26,02:45:39.970 (9939.970),M1.3,02:40,02:47,02:54,http://www.ioffe.ru/LEA/kwsun/2021/20211026_09939.html,https://www.ioffe.ru/LEA/Solar/2SOL20211026T09939.pdf
+972,2021-10-28,15:27:26.140 (55646.140),X1.0,15:17,15:35,15:48,http://www.ioffe.ru/LEA/kwsun/2021/20211028_55646.html,https://www.ioffe.ru/LEA/Solar/2SOL20211028T55646.pdf

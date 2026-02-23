@@ -1,0 +1,18 @@
+Error fetching http://www.ioffe.ru/LEA/kwsun/1999/19991114_58925.html: HTTP Error 404: Not Found
+Error fetching http://www.ioffe.ru/LEA/kwsun/1999/19991116_09534.html: HTTP Error 404: Not Found
+Error fetching http://www.ioffe.ru/LEA/kwsun/1999/19991116_14897.html: HTTP Error 404: Not Found
+Error fetching http://www.ioffe.ru/LEA/kwsun/2000/20000203_71904.html: HTTP Error 404: Not Found
+Error fetching http://www.ioffe.ru/LEA/kwsun/2000/20000601_22303.html: HTTP Error 404: Not Found
+Error fetching http://www.ioffe.ru/LEA/kwsun/2005/20050320_42698.html: HTTP Error 404: Not Found
+No ASCII link found in http://www.ioffe.ru/LEA/kwsun/2011/20111019_67615.html
+Error fetching http://www.ioffe.ru/LEA/kwsun/2012/20121123_70169.html: HTTP Error 404: Not Found
+Error fetching http://www.ioffe.ru/LEA/kwsun/2014/20141105_52044.html: HTTP Error 404: Not Found
+Error fetching http://www.ioffe.ru/LEA/kwsun/2014/20141107_59827.html: HTTP Error 404: Not Found
+Error fetching http://www.ioffe.ru/LEA/kwsun/2014/20141110_08500.html: HTTP Error 404: Not Found
+Error fetching http://www.ioffe.ru/LEA/kwsun/2014/20141115_42931.html: HTTP Error 404: Not Found
+Error fetching http://www.ioffe.ru/LEA/kwsun/2014/20141115_74582.html: HTTP Error 404: Not Found
+Error fetching http://www.ioffe.ru/LEA/kwsun/2014/20141116_63855.html: HTTP Error 404: Not Found
+No ASCII link found in http://www.ioffe.ru/LEA/kwsun/2014/20141119_78585.html(f['year']}")
+No ASCII link found in http://www.ioffe.ru/LEA/kwsun/2024/20240514_07517.html
+Error fetching http://www.ioffe.ru/LEA/kwsun/2024/20240722_24921.html: HTTP Error 404: Not Found
+No href for year All years, skipping

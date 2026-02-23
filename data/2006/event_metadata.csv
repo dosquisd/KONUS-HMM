@@ -1,0 +1,13 @@
+#,trigger date,trigger time (t_0),class,goes t_begin,goes t_max,goes t_end,kw-sun,light curve
+682,2006-01-05,09:20:25.107 (33625.107),C4.4,09:17,09:23,09:26,http://www.ioffe.ru/LEA/kwsun/2006/20060105_33625.html,https://www.ioffe.ru/LEA/Solar/2SOL20060105T33625.pdf
+683,2006-04-30,01:53:10.624 (6790.624),C5.3,01:33,01:57,02:07,http://www.ioffe.ru/LEA/kwsun/2006/20060430_06790.html,https://www.ioffe.ru/LEA/Solar/2SOL20060430T06790.pdf
+684,2006-07-07,00:18:46.865 (1126.865),C2.6,00:13,00:21,00:21,http://www.ioffe.ru/LEA/kwsun/2006/20060707_01126.html,https://www.ioffe.ru/LEA/Solar/2SOL20060707T01126.pdf
+685,2006-07-07,04:56:43.190 (17803.190),B2.2,04:50,04:59,04:59,http://www.ioffe.ru/LEA/kwsun/2006/20060707_17803.html,https://www.ioffe.ru/LEA/Solar/2SOL20060707T17803.pdf
+686,2006-07-07,12:04:02.385 (43442.385),C5.2,11:59,12:06,12:06,http://www.ioffe.ru/LEA/kwsun/2006/20060707_43442.html,https://www.ioffe.ru/LEA/Solar/2SOL20060707T43442.pdf
+687,2006-08-15,10:42:49.468 (38569.468),B8.1,10:41,10:44,10:46,http://www.ioffe.ru/LEA/kwsun/2006/20060815_38569.html,https://www.ioffe.ru/LEA/Solar/2SOL20060815T38569.pdf
+688,2006-08-20,16:30:42.347 (59442.347),C2.9,16:27,16:32,16:34,http://www.ioffe.ru/LEA/kwsun/2006/20060820_59442.html,https://www.ioffe.ru/LEA/Solar/2SOL20060820T59442.pdf
+689,2006-08-28,11:04:01.314 (39841.314),C1.8,11:02,11:06,11:08,http://www.ioffe.ru/LEA/kwsun/2006/20060828_39841.html,https://www.ioffe.ru/LEA/Solar/2SOL20060828T39841.pdf
+690,2006-12-05,08:01:36.142 (28896.142),M1.8,07:45,08:03,08:06,http://www.ioffe.ru/LEA/kwsun/2006/20061205_28896.html,https://www.ioffe.ru/LEA/Solar/2SOL20061205T28896.pdf
+691,2006-12-05,10:26:03.142 (37563.142),X9.0,10:18,10:35,10:45,http://www.ioffe.ru/LEA/kwsun/2006/20061205_37563.html,https://www.ioffe.ru/LEA/Solar/2SOL20061205T37563.pdf
+692,2006-12-13,02:22:16.577 (8536.577),X3.4,02:14,02:40,02:57,http://www.ioffe.ru/LEA/kwsun/2006/20061213_08536.html,https://www.ioffe.ru/LEA/Solar/2SOL20061213T08536.pdf
+693,2006-12-14,22:07:37.803 (79657.803),X1.5,21:07,22:15,22:26,http://www.ioffe.ru/LEA/kwsun/2006/20061214_79657.html,https://www.ioffe.ru/LEA/Solar/2SOL20061214T79657.pdf

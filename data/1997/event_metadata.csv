@@ -1,0 +1,18 @@
+#,trigger date,trigger time (t_0),class,goes t_begin,goes t_max,goes t_end,kw-sun,light curve
+13,1997-04-01,07:56:31.783 (28591.783),C2.2,07:52,07:59,08:04,http://www.ioffe.ru/LEA/kwsun/1997/19970401_28591.html,https://www.ioffe.ru/LEA/Solar/2SOL19970401T28591.pdf
+14,1997-08-29,23:31:22.918 (84682.918),M1.4,22:56,23:32,23:54,http://www.ioffe.ru/LEA/kwsun/1997/19970829_84682.html,https://www.ioffe.ru/LEA/Solar/2SOL19970829T84682.pdf
+15,1997-09-14,02:53:29.698 (10409.698),C2.8,02:50,02:55,02:58,http://www.ioffe.ru/LEA/kwsun/1997/19970914_10409.html,https://www.ioffe.ru/LEA/Solar/2SOL19970914T10409.pdf
+16,1997-09-22,00:48:09.663 (2889.663),C1.7,00:46,00:49,00:51,http://www.ioffe.ru/LEA/kwsun/1997/19970922_02889.html,https://www.ioffe.ru/LEA/Solar/2SOL19970922T02889.pdf
+17,1997-09-24,02:46:41.465 (10001.465),M5.9,02:43,02:48,02:52,http://www.ioffe.ru/LEA/kwsun/1997/19970924_10001.html,https://www.ioffe.ru/LEA/Solar/2SOL19970924T10001.pdf
+18,1997-09-24,05:34:12.140 (20052.140),C4.5,05:23,05:35,05:38,http://www.ioffe.ru/LEA/kwsun/1997/19970924_20052.html,https://www.ioffe.ru/LEA/Solar/2SOL19970924T20052.pdf
+19,1997-09-24,11:01:17.294 (39677.294),M3.0,10:57,11:06,11:10,http://www.ioffe.ru/LEA/kwsun/1997/19970924_39677.html,https://www.ioffe.ru/LEA/Solar/2SOL19970924T39677.pdf
+20,1997-11-03,09:07:47.612 (32867.612),M1.4,09:03,09:10,09:13,http://www.ioffe.ru/LEA/kwsun/1997/19971103_32867.html,https://www.ioffe.ru/LEA/Solar/2SOL19971103T32867.pdf
+21,1997-11-04,02:35:02.274 (9302.274),M4.1,02:32,02:42,03:03,http://www.ioffe.ru/LEA/kwsun/1997/19971104_09302.html,https://www.ioffe.ru/LEA/Solar/2SOL19971104T09302.pdf
+22,1997-11-04,05:55:54.826 (21354.826),X2.1,05:52,05:58,06:02,http://www.ioffe.ru/LEA/kwsun/1997/19971104_21354.html,https://www.ioffe.ru/LEA/Solar/2SOL19971104T21354.pdf
+23,1997-11-06,11:51:48.645 (42708.645),X9.4,11:49,11:55,12:01,http://www.ioffe.ru/LEA/kwsun/1997/19971106_42708.html,https://www.ioffe.ru/LEA/Solar/2SOL19971106T42708.pdf
+24,1997-11-17,14:15:48.635 (51348.635),C1.3,14:14,14:17,14:20,http://www.ioffe.ru/LEA/kwsun/1997/19971117_51348.html,https://www.ioffe.ru/LEA/Solar/2SOL19971117T51348.pdf
+25,1997-11-26,18:32:05.621 (66725.621),M2.0,18:31,18:37,18:40,http://www.ioffe.ru/LEA/kwsun/1997/19971126_66725.html,https://www.ioffe.ru/LEA/Solar/2SOL19971126T66725.pdf
+26,1997-11-27,13:03:46.785 (47026.785),X2.6,12:59,13:17,13:20,http://www.ioffe.ru/LEA/kwsun/1997/19971127_47026.html,https://www.ioffe.ru/LEA/Solar/2SOL19971127T47026.pdf
+27,1997-11-27,16:13:22.283 (58402.283),C3.8,16:10,16:24,16:37,http://www.ioffe.ru/LEA/kwsun/1997/19971127_58402.html,https://www.ioffe.ru/LEA/Solar/2SOL19971127T58402.pdf
+28,1997-11-28,05:02:07.982 (18127.982),M6.8,04:53,05:03,05:23,http://www.ioffe.ru/LEA/kwsun/1997/19971128_18127.html,https://www.ioffe.ru/LEA/Solar/2SOL19971128T18127.pdf
+29,1997-12-01,02:35:05.728 (9305.728),M1.2,02:32,02:37,02:47,http://www.ioffe.ru/LEA/kwsun/1997/19971201_09305.html,https://www.ioffe.ru/LEA/Solar/2SOL19971201T09305.pdf

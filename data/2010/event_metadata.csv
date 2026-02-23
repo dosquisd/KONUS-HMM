@@ -1,0 +1,8 @@
+#,trigger date,trigger time (t_0),class,goes t_begin,goes t_max,goes t_end,kw-sun,light curve
+699,2010-02-07,02:33:04.736 (9184.736),M6.4,02:20,02:34,02:39,http://www.ioffe.ru/LEA/kwsun/2010/20100207_09184.html,https://www.ioffe.ru/LEA/Solar/2SOL20100207T09184.pdf
+700,2010-02-08,07:40:04.864 (27604.864),M4.0,07:36,07:43,07:46,http://www.ioffe.ru/LEA/kwsun/2010/20100208_27604.html,https://www.ioffe.ru/LEA/Solar/2SOL20100208T27604.pdf
+701,2010-02-08,13:44:03.619 (49443.619),M2.0,13:32,13:47,13:50,http://www.ioffe.ru/LEA/kwsun/2010/20100208_49443.html,https://www.ioffe.ru/LEA/Solar/2SOL20100208T49443.pdf
+702,2010-02-12,07:23:17.710 (26597.710),C7.9,07:18,07:25,07:28,http://www.ioffe.ru/LEA/kwsun/2010/20100212_26597.html,https://www.ioffe.ru/LEA/Solar/2SOL20100212T26597.pdf
+703,2010-02-12,11:25:25.734 (41125.734),M8.3,11:19,11:26,11:28,http://www.ioffe.ru/LEA/kwsun/2010/20100212_41125.html,https://www.ioffe.ru/LEA/Solar/2SOL20100212T41125.pdf
+704,2010-06-12,00:55:32.314 (3332.314),M2.0,00:30,00:57,01:02,http://www.ioffe.ru/LEA/kwsun/2010/20100612_03332.html,https://www.ioffe.ru/LEA/Solar/2SOL20100612T03332.pdf
+705,2010-10-16,19:10:43.505 (69043.505),M2.9,19:07,19:12,19:15,http://www.ioffe.ru/LEA/kwsun/2010/20101016_69043.html,https://www.ioffe.ru/LEA/Solar/2SOL20101016T69043.pdf

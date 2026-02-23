@@ -1,0 +1,15 @@
+#,trigger date,trigger time (t_0),class,goes t_begin,goes t_max,goes t_end,kw-sun,light curve
+951,2017-04-01,21:47:39.065 (78459.065),M4.4,21:35,21:48,22:05,http://www.ioffe.ru/LEA/kwsun/2017/20170401_78459.html,https://www.ioffe.ru/LEA/Solar/2SOL20170401T78459.pdf
+952,2017-04-02,20:30:05.536 (73805.536),M5.7,20:26,20:33,20:38,http://www.ioffe.ru/LEA/kwsun/2017/20170402_73805.html,https://www.ioffe.ru/LEA/Solar/2SOL20170402T73805.pdf
+953,2017-04-04,21:34:36.702 (77676.702),C2.1,21:31,21:36,21:39,http://www.ioffe.ru/LEA/kwsun/2017/20170404_77676.html,https://www.ioffe.ru/LEA/Solar/2SOL20170404T77676.pdf
+954,2017-07-03,16:13:22.622 (58402.622),M1.3,15:37,16:15,16:18,http://www.ioffe.ru/LEA/kwsun/2017/20170703_58402.html,https://www.ioffe.ru/LEA/Solar/2SOL20170703T58402.pdf
+955,2017-07-16,10:54:35.227 (39275.227),C1.5,10:53,10:57,10:59,http://www.ioffe.ru/LEA/kwsun/2017/20170716_39275.html,https://www.ioffe.ru/LEA/Solar/2SOL20170716T39275.pdf
+956,2017-09-05,13:29:32.552 (48572.552),C6.9,13:26,13:34,13:51,http://www.ioffe.ru/LEA/kwsun/2017/20170905_48572.html,https://www.ioffe.ru/LEA/Solar/2SOL20170905T48572.pdf
+957,2017-09-06,09:03:02.225 (32582.225),X2.2,08:57,09:10,09:17,http://www.ioffe.ru/LEA/kwsun/2017/20170906_32582.html,https://www.ioffe.ru/LEA/Solar/2SOL20170906T32582.pdf
+958,2017-09-06,11:55:23.457 (42923.457),X9.3,11:53,12:02,12:10,http://www.ioffe.ru/LEA/kwsun/2017/20170906_42923.html,https://www.ioffe.ru/LEA/Solar/2SOL20170906T42923.pdf
+959,2017-09-07,05:00:35.122 (18035.122),M2.4,04:59,05:02,05:08,http://www.ioffe.ru/LEA/kwsun/2017/20170907_18035.html,https://www.ioffe.ru/LEA/Solar/2SOL20170907T18035.pdf
+960,2017-09-07,09:52:54.451 (35574.451),M1.4,09:49,09:54,09:58,http://www.ioffe.ru/LEA/kwsun/2017/20170907_35574.html,https://www.ioffe.ru/LEA/Solar/2SOL20170907T35574.pdf
+961,2017-09-07,14:32:25.599 (52345.599),X1.3,14:20,14:36,14:55,http://www.ioffe.ru/LEA/kwsun/2017/20170907_52345.html,https://www.ioffe.ru/LEA/Solar/2SOL20170907T52345.pdf
+962,2017-09-07,18:41:34.057 (67294.057),C4.5,18:40,18:44,18:49,http://www.ioffe.ru/LEA/kwsun/2017/20170907_67294.html,https://www.ioffe.ru/LEA/Solar/2SOL20170907T67294.pdf
+963,2017-09-08,01:39:36.954 (5976.954),C5.3,01:36,01:40,01:42,http://www.ioffe.ru/LEA/kwsun/2017/20170908_05976.html,https://www.ioffe.ru/LEA/Solar/2SOL20170908T05976.pdf
+964,2017-09-08,07:06:48.521 (25608.521),C6.0,07:04,07:08,07:10,http://www.ioffe.ru/LEA/kwsun/2017/20170908_25608.html,https://www.ioffe.ru/LEA/Solar/2SOL20170908T25608.pdf

@@ -1,0 +1,22 @@
+#,trigger date,trigger time (t_0),class,goes t_begin,goes t_max,goes t_end,kw-sun,light curve
+1160,2025-01-03,11:37:36.085 (41856.085),X1.2,11:29,11:39,11:49,http://www.ioffe.ru/LEA/kwsun/2025/20250103_41856.html,https://www.ioffe.ru/LEA/Solar/2SOL20250103T41856.pdf
+1161,2025-01-03,22:37:25.912 (81445.912),X1.1,22:32,22:41,22:51,http://www.ioffe.ru/LEA/kwsun/2025/20250103_81445.html,https://www.ioffe.ru/LEA/Solar/2SOL20250103T81445.pdf
+1162,2025-01-04,12:42:45.821 (45765.821),X1.8,12:34,12:48,12:56,http://www.ioffe.ru/LEA/kwsun/2025/20250104_45765.html,https://www.ioffe.ru/LEA/Solar/2SOL20250104T45765.pdf
+1163,2025-01-06,16:21:26.750 (58886.750),M4.8,16:12,16:24,16:30,http://www.ioffe.ru/LEA/kwsun/2025/20250106_58886.html,https://www.ioffe.ru/LEA/Solar/2SOL20250106T58886.pdf
+1164,2025-01-17,13:33:36.706 (48816.706),M7.4,13:24,13:35,13:39,http://www.ioffe.ru/LEA/kwsun/2025/20250117_48816.html,https://www.ioffe.ru/LEA/Solar/2SOL20250117T48816.pdf
+1165,2025-01-19,03:32:05.076 (12725.076),M2.4,03:28,03:32,03:36,http://www.ioffe.ru/LEA/kwsun/2025/20250119_12725.html,https://www.ioffe.ru/LEA/Solar/2SOL20250119T12725.pdf
+1166,2025-01-19,17:07:05.655 (61625.655),C8.2,16:58,17:08,17:12,http://www.ioffe.ru/LEA/kwsun/2025/20250119_61625.html,https://www.ioffe.ru/LEA/Solar/2SOL20250119T61625.pdf
+1167,2025-02-01,13:16:26.427 (47786.427),M2.4,13:14,13:19,13:23,http://www.ioffe.ru/LEA/kwsun/2025/20250201_47786.html,https://www.ioffe.ru/LEA/Solar/2SOL20250201T47786.pdf
+1168,2025-02-02,14:03:14.956 (50594.956),M5.1,13:58,14:04,14:08,http://www.ioffe.ru/LEA/kwsun/2025/20250202_50594.html,https://www.ioffe.ru/LEA/Solar/2SOL20250202T50594.pdf
+1169,2025-02-03,05:43:28.214 (20608.214),M3.1,05:37,05:47,05:54,http://www.ioffe.ru/LEA/kwsun/2025/20250203_20608.html,https://www.ioffe.ru/LEA/Solar/2SOL20250203T20608.pdf
+1170,2025-02-03,18:33:04.617 (66784.617),M4.3,18:25,18:36,18:45,http://www.ioffe.ru/LEA/kwsun/2025/20250203_66784.html,https://www.ioffe.ru/LEA/Solar/2SOL20250203T66784.pdf
+1171,2025-02-04,13:09:42.671 (47382.671),M3.2,12:54,13:13,13:22,http://www.ioffe.ru/LEA/kwsun/2025/20250204_47382.html,https://www.ioffe.ru/LEA/Solar/2SOL20250204T47382.pdf
+1172,2025-02-05,01:06:46.541 (4006.541),C7.9,01:01,01:09,01:14,http://www.ioffe.ru/LEA/kwsun/2025/20250205_04006.html,https://www.ioffe.ru/LEA/Solar/2SOL20250205T04006.pdf
+1173,2025-02-05,07:48:37.013 (28117.013),M2.7,07:44,07:50,07:57,http://www.ioffe.ru/LEA/kwsun/2025/20250205_28117.html,https://www.ioffe.ru/LEA/Solar/2SOL20250205T28117.pdf
+1174,2025-02-05,18:27:16.582 (66436.582),C4.4,18:25,18:28,18:32,http://www.ioffe.ru/LEA/kwsun/2025/20250205_66436.html,https://www.ioffe.ru/LEA/Solar/2SOL20250205T66436.pdf
+1175,2025-02-06,10:57:56.563 (39476.563),M7.6,10:47,11:04,11:16,http://www.ioffe.ru/LEA/kwsun/2025/20250206_39476.html,https://www.ioffe.ru/LEA/Solar/2SOL20250206T39476.pdf
+1176,2025-02-23,02:08:42.839 (7722.839),M4.9,02:00,02:13,02:23,http://www.ioffe.ru/LEA/kwsun/2025/20250223_07722.html,https://www.ioffe.ru/LEA/Solar/2SOL20250223T07722.pdf
+1177,2025-02-23,19:24:03.256 (69843.256),X2.0,19:22,19:27,19:34,http://www.ioffe.ru/LEA/kwsun/2025/20250223_69843.html,https://www.ioffe.ru/LEA/Solar/2SOL20250223T69843.pdf
+1178,2025-02-24,07:00:40.450 (25240.450),M3.3,06:53,07:02,07:08,http://www.ioffe.ru/LEA/kwsun/2025/20250224_25240.html,https://www.ioffe.ru/LEA/Solar/2SOL20250224T25240.pdf
+1179,2025-03-11,13:03:38.228 (47018.228),M1.1,13:03,13:04,13:06,http://www.ioffe.ru/LEA/kwsun/2025/20250311_47018.html,https://www.ioffe.ru/LEA/Solar/2SOL20250311T47018.pdf
+1180,2025-03-28,15:05:57.640 (54357.640),X1.1,15:03,15:21,15:42,http://www.ioffe.ru/LEA/kwsun/2025/20250328_54357.html,https://www.ioffe.ru/LEA/Solar/2SOL20250328T54357.pdf

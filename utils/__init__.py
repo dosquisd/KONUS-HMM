@@ -1,5 +1,3 @@
-def main() -> None:
-    print("This is the utils package.")
+from utils.rootdir import DATADIR, FIGURESDIR, ROOTDIR
 
-
-__all__ = ["main"]
+__all__ = ["DATADIR", "FIGURESDIR", "ROOTDIR"]

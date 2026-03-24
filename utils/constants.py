@@ -14,3 +14,4 @@ def project_root(anchor: str = "pyproject.toml"):
 ROOTDIR = project_root()
 DATADIR = ROOTDIR / "data"
 FIGURESDIR = ROOTDIR / "figures"
+MIN_VALUE_THRESHOLD: float = 1e-16

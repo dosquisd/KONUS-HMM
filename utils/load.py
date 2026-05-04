@@ -34,7 +34,10 @@ def load_data_per_event(
     # return pd.read_csv(file_path, skiprows=skip_rows, delimiter=r"\s+")
 
 
-def load_events(*, custom_scale_args: Dict[EventID, CustomScale]) -> List[EventData]:
+def load_events(*, custom_scale_args: Optional[Dict[EventID, CustomScale]] = None) -> List[EventData]:
+    if custom_scale_args is None:
+        custom_scale_args = {}
+
     events: List[EventData] = []
 
     for year_event in list(filter(lambda x: x.is_dir(), DATADIR.glob("*"))):
@@ -46,7 +49,8 @@ def load_events(*, custom_scale_args: Dict[EventID, CustomScale]) -> List[EventD
             event_class = str(
                 metadata.filter(pl.col("#") == int(event_id))["class"].item()[0]
             )
-            print(f"  [+] Processing event: {event_id} -- class: {event_class}")
+            event_intensity = float(metadata.filter(pl.col("#") == int(event_id))["class"].item()[1:])
+            print(f"  [+] Processing event: {event_id} -- class: {event_class} -- intensity: {event_intensity}")
 
             df = load_data_per_event(event).drop_nulls().drop_nans()
             primordial = []
@@ -89,7 +93,7 @@ def load_events(*, custom_scale_args: Dict[EventID, CustomScale]) -> List[EventD
                 # Normalize the data using the specified normalizer
                 normalized_data = norm.normalize(
                     df.select(pl.col("G1bgsub", "G2bgsub", "G3bgsub")).to_numpy(),
-                    scale=custom_scale_args.get(event_id, 1),
+                    scale=custom_scale_args.get(event_id, 1) if norm == Normalizer.CUSTOM else None,
                 )
                 normalized_df = (
                     pl.DataFrame(
@@ -117,6 +121,7 @@ def load_events(*, custom_scale_args: Dict[EventID, CustomScale]) -> List[EventD
                 )
                 event_data = EventData(
                     event_class=event_class,
+                    event_intensity=event_intensity,
                     event_tm=graph,
                     tm_thecnique=str(tm.value),
                     normalizer=str(norm.value),

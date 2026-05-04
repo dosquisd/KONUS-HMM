@@ -3,6 +3,7 @@ import scienceplots  # noqa: F401
 
 from utils import dtypes
 from utils.constants import DATADIR, FIGURESDIR, MIN_VALUE_THRESHOLD, ROOTDIR
+from utils.hmm import TransitionMatrix
 from utils.load import load_data_per_event, load_events
 from utils.normalizer import Normalizer
 
@@ -16,6 +17,7 @@ __all__ = [
     "DATADIR",
     "FIGURESDIR",
     "ROOTDIR",
+    "TransitionMatrix",
     "Normalizer",
     "dtypes",
     "load_data_per_event",
